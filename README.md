@@ -1,11 +1,11 @@
-## (Los cuentos de Sairik)  
-
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
+## Los cuentos de Sairik  
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
-Master de Nuevos medios interactivos y periodismo multimedia
+Máster de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
 Univesidad de Granada  
+Carla Rivero Pérez
+2020/2021
 
 ----
 
@@ -17,15 +17,20 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): La imaginación salva barreras
 
-**Hashtag**  ___
+**Hashtag** : #LosCuentosdeSairik #CuentosAfricanos #ImaginaSinBarreras
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2020/2021
 
 **Medios** (donde se tiene presencia): 
+
+-Diseño de la plataforma y aplicación: WordPress y ProtoPie
+-Plataforma sonora: Spotify
+-Mapa interactivo: EzMap (de Google)
+-Redes sociales: Twitter, Instagram, Facebook y Youtube
 
 
 *  :octocat: (github url) 

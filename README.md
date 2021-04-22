@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (Los cuentos de Sairik)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Los cuentos de Sairik
 
-**Autor(es)** ______________
+**Autor(es)** Carla Rivero Pérez
 
-**Resumen** : _________
+**Resumen** : 'Los cuentos de Sairik' es un proyecto educativo que acerca la realidad africana a los más pequeños de manera entretenida para ahondar en valores como la empatía, la solidaridad y el respeto, siendo África un continente tan cercano geógrafica y vitalmente a nuestras vidas, a través de historias que aúnan lo tradicional y actual. 
 
 **logotipo** :  ________
 

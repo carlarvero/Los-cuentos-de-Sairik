@@ -24,15 +24,25 @@ Carla Rivero Pérez
 
 **Hashtag** : #LosCuentosdeSairik #CuentosAfricanos #ImaginaSinBarreras
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**   
+
+
+Reconocimiento
+CC BY
+
+Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adaptar y mejorar el producto primario. Como se trata de una herramienta que, en principio, se abre al uso de la comunidad y que bebe de que esta la retroalimente, sería la mejor opción.
+
 
 **Fecha** : 2020/2021
 
 **Medios** (donde se tiene presencia): 
 
 -Diseño de la plataforma y aplicación: WordPress y ProtoPie
+
 -Plataforma sonora: Spotify
+
 -Mapa interactivo: EzMap (de Google)
+
 -Redes sociales: Twitter, Instagram, Facebook y Youtube
 
 

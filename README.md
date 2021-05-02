@@ -15,7 +15,10 @@ Carla Rivero Pérez
 
 **Resumen** : 'Los cuentos de Sairik' es un proyecto educativo que acerca la realidad africana a los más pequeños de manera entretenida para ahondar en valores como la empatía, la solidaridad y el respeto, siendo África un continente tan cercano geógrafica y vitalmente a nuestras vidas, a través de historias que aúnan lo tradicional y actual. 
 
-**logotipo** :  ________
+**logotipo** : 
+
+![Logo - Los cuentos de Sairik](https://user-images.githubusercontent.com/83021781/116815383-8e248b80-ab5d-11eb-810a-9262cea1d9d5.png)
+
 
 **Slogan** (frase motivadora/inspiradora): La imaginación salva barreras
 
@@ -49,7 +52,15 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**    
+
+'Los cuentos de Sairik' parte de la necesidad de crear un recurso educativo que ayude a la comunidad educativa, y a la sociedad en general, vincularse a las costumbers, acervos y vivencias de África. Esto parte a raíz de la crisis migratoria que se vive en las Islas Canarias desde enero de 2020, cuando la ruta atlántica se convirtió en la vía de escape de más de 3.000 personas que intentan huir de la pobreza de sus países de origen. Además, el contexto de la covid y la presión legitimida por la normativa de fronteras de la UE, ha supuesto que Canarias se convierta en un Archipiélago 'cárcel', en el cual se ha denunciado en varias ocasiones que la policía prohibiera el libre tránsito de las personas migrantes. 
+
+Los reportajes, las entrevistas y crónicas de periodistas como José Naranjo y María Martín en 'El País', o Xavier Aldekoa para 'La Vanguardia', así como Natalia Vargas en el periódico 'Canarias Ahora' y las delegaciones de Efe en las Islas son la principal muestra de lo que ocurre. En el terreno de la ficción, este proyecto se inspira en los largometrajes de 'Kirikú y la bruja' (1998, Michel Ocelot), en el cual se narra la historia de un niño valiente que se enfrenta a la bruja Karaba que mantiene sometida a su aldea en un embrujo. 
+
+También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodista y viajero recientemente fallecido Antonio Lozano, donde se narra la historia del protagonista, un niño de Malí que decide marchar hacia Europa, descubriendo durante el camino las dificultades y obstáculos de la frontera con Melilla y las ingratas consecuencias de su aventura; y el libro
+
+
 
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
@@ -58,9 +69,20 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
+La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de nosotras alguna vez ha pensado en África, con sus cincuenta y un países, como un destino en el que prosperar? Miramos hacia Norteamérica (el 'sueño americano' ha hecho bien su trabajo después de décadas suministrando su hegemonía cultural), hacia el norte de Europa y sus bucólicas estampas, o hacia el avance infatigable del ente asiático. Pero, a tan solo unos kilómetros crece la tierra de la que provenimos y de la cual nos seguimos sustentando hoy día explotando sus recursos, y decidimos que ha de quedar ¿postergada al olvido? 
+
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
+
+Público objetivo:
+
+-Menores de 6 a 12 años. 
+-Menores de 12 a 16 años (adaptado a su currículum educativo).
+-Familias circundantes a estos menores. 
+-Población mayor, general, con nietos, que puedan acudir a los eventos que se programen desde ayuntamientos y asociaciones. 
+-ONG que estén trabajando en materia de migración.
+-Ayuntamientos que deseen cuidar en perspectiva de diversidad e integración cultural. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 

@@ -88,11 +88,16 @@ La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de 
 Público objetivo:
 
 -Menores de 6 a 12 años. 
+
 -Menores de 12 a 16 años (adaptado a su currículum educativo).
+
 -Familias circundantes a estos menores. 
+
 -Población mayor, general, con nietos, que puedan acudir a los eventos que se programen desde ayuntamientos y asociaciones. 
+
 -ONG que estén trabajando en materia de migración.
--Ayuntamientos que deseen cuidar en perspectiva de diversidad e integración cultural. 
+
+-Ayuntamientos (sus concejalías de cultura y servicios sociales) que deseen el material para educar en perspectiva de diversidad e integración cultural. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 

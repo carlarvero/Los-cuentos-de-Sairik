@@ -43,6 +43,8 @@ Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adap
 
 -Mapa interactivo: EzMap (de Google)
 
+
+
 -Redes sociales: Twitter, Instagram, Facebook y Youtube
 
 
@@ -56,7 +58,9 @@ Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adap
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+El proyecto 'Los cuentos de Sairik' es, fundamentalmente, sonoro. No obstante, es necesario una serie de plataformas para combinar y mejorar la experiencia del usuario. Para ello, en primer lugar se dispondrá de una aplicación móvil en la que estará disponible el contenido pormenorizado de
+
+Por último, todo el contenido estará disponible de forma global en la página web: https://loscuentosdesairik.wordpress.com/ Con ello, lo que se pretende es que pueda haber un repositorio general al que acudir en caso de pérdida. La interfaz elegida, sencilla con colores suaves y agradable a la vista, combina los elementos de la tipografía y la imagen inicial del logo. 
 
 ### Etapa 1: Ideación de proyecto 
 
@@ -64,7 +68,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**    
 
-'Los cuentos de Sairik' parte de la necesidad de crear un recurso educativo que ayude a la comunidad educativa, y a la sociedad en general, vincularse a las costumbers, acervos y vivencias de África. Esto parte a raíz de la crisis migratoria que se vive en las Islas Canarias desde enero de 2020, cuando la ruta atlántica se convirtió en la vía de escape de más de 3.000 personas que intentan huir de la pobreza de sus países de origen. Además, el contexto de la covid y la presión legitimida por la normativa de fronteras de la UE, ha supuesto que Canarias se convierta en un Archipiélago 'cárcel', en el cual se ha denunciado en varias ocasiones que la policía prohibiera el libre tránsito de las personas migrantes. 
+'Los cuentos de Sairik' parte de la necesidad de crear un recurso educativo que ayude a la comunidad educativa, y a la sociedad en general, a vincularse en las costumbres, acervos y vivencias de África. Esto parte a raíz de la crisis migratoria que se vive en las Islas Canarias desde enero de 2020, cuando la ruta atlántica se convirtió en la vía de escape de más de 3.000 personas que intentan huir de la pobreza de sus países de origen. Además, el contexto de la covid y la presión legitimida por la normativa de fronteras de la UE, ha supuesto que Canarias se convierta en un Archipiélago 'cárcel', en el cual se ha denunciado en varias ocasiones que la policía prohibiera el libre tránsito de las personas migrantes. 
 
 Los reportajes, las entrevistas y crónicas de periodistas como José Naranjo y María Martín en 'El País', o Xavier Aldekoa para 'La Vanguardia', así como Natalia Vargas en el periódico 'Canarias Ahora' y las delegaciones de Efe en las Islas son la principal muestra de lo que ocurre. En el terreno de la ficción, este proyecto se inspira en los largometrajes de 'Kirikú y la bruja' (1998, Michel Ocelot), en el cual se narra la historia de un niño valiente que se enfrenta a la bruja Karaba que mantiene sometida a su aldea en un embrujo. 
 
@@ -81,7 +85,9 @@ También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodist
 
 La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de nosotras alguna vez ha pensado en África, con sus cincuenta y un países, como un destino en el que prosperar? Miramos hacia Norteamérica (el 'sueño americano' ha hecho bien su trabajo después de décadas suministrando su hegemonía cultural), hacia el norte de Europa y sus bucólicas estampas, o hacia el avance infatigable del ente asiático. Pero, a tan solo unos kilómetros crece la tierra de la que provenimos y de la cual nos seguimos sustentando hoy día explotando sus recursos, y decidimos que ha de quedar ¿postergada al olvido? 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+
+
 
 **Personas/Usuarios**  
 
@@ -142,7 +148,17 @@ Público objetivo:
 
 Referencias y recursos: 
 
-* Artículos ..  
+* Artículos 
+
+Alonso, J., (1998). El pájaro que entro por la boca y salió por el culo de un hombre: mitos y cuentos africanos e internacionales (de ATU 235C* a ATU 715A). Cuadernos del Matemática: Revista ilustrada de creación, 21, pág. 23-26. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=5023386 
+
+Bolaños, J., (2014). Construyendo la paz desde los suburbios africanos. Documento informativo. Instituto Español de Estudios Estratégicos. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=7600019
+
+Jojo, V., (2019). El devenir del cuento corto africano digital en inglés. Nerter: Revista dedicada a la literatura, el arte y el conocimiento, 30, pág. 52-58. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=7219262 
+
+Mandela, N., (2019). Mis cuentos africanos. Madrid, España, Siruela. Recuperado de: https://www.siruela.com/catalogo.php?id_libro=3529  
+
+
 * Productos utilizados  
 * Propuestas de me
 

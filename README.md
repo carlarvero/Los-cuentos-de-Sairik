@@ -137,7 +137,7 @@ Herramientas para evaluar la ideación del proyecto.
  
 * Propuestas de mejora (por qué consideras que merece la pena continuar): la recopilación de testimonios reales para fomentar la parte socio-educativa del proyecto sería muy interesante expandirla, además de la narración y mejora de los propios cuentos. 
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): 
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): hay un interesante recurso en lo transmedia que se denomina "testimonio transmedia", este se desarrolla cuando los propios usuarios utilizan las TIC para difundir el proyecto en sí, por lo que, además de lo comentado anteriormente, esta es una vía de proyección en el futuro.
 
 
 Referencias y recursos: 

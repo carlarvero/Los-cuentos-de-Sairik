@@ -41,7 +41,7 @@ Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adap
 
 -Plataforma sonora: Spotify
 
--Mapa interactivo: EzMap (de Google)
+-Mapa interactivo: MyMaps (de Google)
 
 -Redes sociales: Twitter, Instagram, Facebook y Youtube. A desarrollar posteriormente.
 

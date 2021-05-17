@@ -43,28 +43,27 @@ Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adap
 
 -Mapa interactivo: EzMap (de Google)
 
+-Redes sociales: Twitter, Instagram, Facebook y Youtube. A desarrollar posteriormente.
 
-
--Redes sociales: Twitter, Instagram, Facebook y Youtube
-
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
-
-
-
---- 
 
 ### Metodología
 
-El proyecto 'Los cuentos de Sairik' es, fundamentalmente, sonoro. No obstante, es necesario una serie de plataformas para combinar y mejorar la experiencia del usuario. Para ello, en primer lugar se dispondrá de una aplicación móvil en la que estará disponible el contenido pormenorizado de
+El proyecto 'Los cuentos de Sairik' es, fundamentalmente, sonoro. No obstante, es necesario una serie de plataformas para combinar y mejorar la experiencia del usuario. Para ello, en primer lugar se dispondrá de una aplicación móvil en la que estará disponible el contenido del plan. Acerca de las redes sociales, no te ha contemplado su realización en esta primera etapa debido a que algunas secciones han quedado pendientes, como se explicará a continuación. 
 
 Por último, todo el contenido estará disponible de forma global en la página web: https://loscuentosdesairik.wordpress.com/ Con ello, lo que se pretende es que pueda haber un repositorio general al que acudir en caso de pérdida. La interfaz elegida, sencilla con colores suaves y agradable a la vista, combina los elementos de la tipografía y la imagen inicial del logo. 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante ProtoTipe: https://cloud.protopie.io/p/7ac8f227bd
+
+Actividades realizadas mediante WordPress: https://loscuentosdesairik.wordpress.com/
+
+Actividades realizadas mediante Anchor (previamente en Audacity): https://anchor.fm/carla-rivero0
+
+Actividades realizadas mediante MyMaps de Google: https://www.google.com/maps/d/u/0/edit?mid=18fi4cNCTAOHzTbQ_GHBb3ZQ_y_xLZP89&usp=sharing
+
+Actidades a realizar en las redes sociales: con una programación de tres publicaciones semanales que se estableciera en: domingo, estreno del cuento; miércoles, entrevista/reportaje/experiencia vívida de un niño o niña del continente africano; viernes, invitación de un cuentista/escritor/experto/activista para hablar de literatura africana o del contexto que atraviesa el país a analizar indicado sobre todo para adultos. Esta dinámica se establecería tanto en Twitter, Instagram, Facebook y Youtube.
+
 
 **Investigación de campo**    
 
@@ -72,13 +71,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Los reportajes, las entrevistas y crónicas de periodistas como José Naranjo y María Martín en 'El País', o Xavier Aldekoa para 'La Vanguardia', así como Natalia Vargas en el periódico 'Canarias Ahora' y las delegaciones de Efe en las Islas son la principal muestra de lo que ocurre. En el terreno de la ficción, este proyecto se inspira en los largometrajes de 'Kirikú y la bruja' (1998, Michel Ocelot), en el cual se narra la historia de un niño valiente que se enfrenta a la bruja Karaba que mantiene sometida a su aldea en un embrujo. 
 
-También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodista y viajero recientemente fallecido Antonio Lozano, donde se narra la historia del protagonista, un niño de Malí que decide marchar hacia Europa, descubriendo durante el camino las dificultades y obstáculos de la frontera con Melilla y las ingratas consecuencias de su aventura; y el libro
-
-
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodista y viajero recientemente fallecido Antonio Lozano, donde se narra la historia del protagonista, un niño de Malí que decide marchar hacia Europa, descubriendo durante el camino las dificultades y obstáculos de la frontera con Melilla y las ingratas consecuencias de su aventura; y el libro 'Cuentos para niños perdidos', de Diriye Osman, o 'Mis cuentos africanos', de Nelson Mandela. Además de la lectura de algunos artículos han dado una muestra, aún expandible, de lo que querríamos expresar en este viaje de Sairik.
 
 
 **Necesidad/oportunidad** 
@@ -87,7 +80,7 @@ La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de 
 
 **Motivación de la propuesta** 
 
-
+El proyecto parte de una inspiración personal, atendiendo a mi pasión por escribir y contar y atendiendo al contexto canario antes referido -del cual provengo-, creí que era una buena metodología para hacer algo por la comunidad desde mis recursos. Como recogen varios estudios, los cuentos son vías de expresión y transmisión de la costumbre, tradiciones y enseñanzas de un pueblo. Por ejemplo, en la temática africana se reconocen ciertos rasgos como el tratamiento de la muerte de una forma natural, además de la personalización de los animales y unos mensajes cortos aunque claros y difundidos por vía oral entre adultos -para que los pequeños escuchen-. Así que esta ideación responde a transmitir de una manera lúdica y entretenida estas experiencias.  
 
 **Personas/Usuarios**  
 
@@ -105,45 +98,46 @@ Público objetivo:
 
 -Ayuntamientos (sus concejalías de cultura y servicios sociales) que deseen el material para educar en perspectiva de diversidad e integración cultural. 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**   
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+1. Spotify. Al estilo de un libro de cuentos, la voz narra las vivencias de Sairik. Esta plataforma está conectada tanto a ProtoPie como a WordPress y, por ahora, contempla la realización de una primera temporada. 
 
+2. WordPress. En la página web 'Los cuentos de Sairik' se concentra el contenido del proyecto. La primera página, 'La aldea', se puede consultar tanto los capítulos sonoros originales y autoproducidos como otras leyendas en el siguiente apartado recogidas de distintas fuentes para completar el contenido literario. En la siguiente y aún en costrucción, 'Descubriendo mundo', se descubre el mapa en donde se aportará información de los países de los que se van escogiendo los cuentos tradicionales y, además, en un futuro se plantearía una serie de reportajes y/o crónicas o entrevistas con niños y niñas del contenido para que expresaran su realidad en este medio. Por último, la tercera página, 'Quién eres', es donde la autora se presenta y proporciona información para aquellos interesados que deseen ponerse en contacto con ella.    
+
+3. ProtoPie. Diseño de una aplicación móvil donde se incluye tanto la primera temporada como la idea de incluir tanto el mapa geolocalizador y un pequeño juego desarrollado por Conducttr para que los infantes puedan interaccionar con la pantalla y descubran así el contenido. 
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+La imagen visual se ha diseñado con la aplicación Canva y la careta del programa es propia, gracias a la colaboración de mi compañero Nicolás Orozco, en su edición en el programa sonoro Audacity. 
 
-* publicidad: banner (... ) 
+* Publicidad: En este caso, entendemos que sería mejor utilizar patrocinadores para la campaña de lanzamiento y, luego, mantenimiento, yendo a las distintas convocatorias lanzadas por ayuntamientos e instituciones públicas. Este espacio patrocinado se colocaría en el banner superior o inferior de la página web principal del proyecto, para que se visualizara, pero tampoco dañara el diseño conjunto.   
 
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Herramientas para evaluar la ideación del proyecto.
 
-* Test con usuarios (...) 
-* ... 
+-Test con usuarios individualizados. Es necesario conocer la impresión de la comunidad. Evaluación final mediante quince preguntas que atiendan a los parámetros de la experiencia del usuario (UX) a través de cinco apartados: aprendizaje, memorización, facilidad, comunicación de errores y satisfacción.
 
+*En relación a los cuentos, se ha difundido entre varios miembros de mi grupo y les ha gustado el formato. No obstante, el resto de contenido no ha sido posible por su primigenio estado. 
 
+-Elaboración de un taller colectivo. Definir y observar la atención y recepción de la comunidad a partir de un programa conjunto de, por ejemplo, una tarde, en la que se presente y se practique el proyecto. 
 
 
 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto: medio. Ha habido producción y realización de los cuentos y de las principales plataformas, pero aún queda mucho trabajo por hacer. 
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): ha habido algunos problemas con el programa ProtoPie, si bien cuando arranca (run) en la previsualización se ven todas las opciones, luego no es así en la pantalla principal del proyecto. Y también, aunque estén dadas las instrucciones de reproducción de los capítulos del pódcast, estos no se escuchan. Además, si bien la idea inicial contemplaba la inclusión de relatos personales, no se ha podido recopilar debido a la exigencia del proceso aunque se deja contemplado en la puesta en escena del trabajo. 
+ 
+* Propuestas de mejora (por qué consideras que merece la pena continuar): la recopilación de testimonios reales para fomentar la parte socio-educativa del proyecto sería muy interesante expandirla, además de la narración y mejora de los propios cuentos. 
+
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): 
 
 
 Referencias y recursos: 
@@ -158,11 +152,6 @@ Jojo, V., (2019). El devenir del cuento corto africano digital en inglés. Nerte
 
 Mandela, N., (2019). Mis cuentos africanos. Madrid, España, Siruela. Recuperado de: https://www.siruela.com/catalogo.php?id_libro=3529  
 
-
-* Productos utilizados  
-* Propuestas de me
-
-(...)
 
 
 
@@ -179,10 +168,6 @@ Mandela, N., (2019). Mis cuentos africanos. Madrid, España, Siruela. Recuperado
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 

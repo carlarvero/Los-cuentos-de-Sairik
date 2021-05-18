@@ -20,7 +20,7 @@ Carla Rivero Pérez
 ![Logo - Los cuentos de Sairik](https://user-images.githubusercontent.com/83021781/116815383-8e248b80-ab5d-11eb-810a-9262cea1d9d5.png)
 
 
-**Slogan** (frase motivadora/inspiradora): La imaginación salva barreras
+**Slogan** (frase motivadora/inspiradora): donde la imaginación salva barreras
 
 **Hashtag** : #LosCuentosdeSairik #CuentosAfricanos #ImaginaSinBarreras
 
@@ -39,16 +39,16 @@ Se ofrecerá este tipo de licencia puesto que permite utilizar, reutilizar, adap
 
 -Diseño de la plataforma y aplicación: WordPress y ProtoPie
 
--Plataforma sonora: Spotify
+-Plataforma sonora: Anchor (distribución en Spotify, Google Podcasts, Breaker, Pocket Casts, RadioPublic, RSS)
 
 -Mapa interactivo: MyMaps (de Google)
 
--Redes sociales: Twitter, Instagram, Facebook y Youtube. A desarrollar posteriormente.
+-Redes sociales: Twitter, Instagram, Facebook y Youtube. A desarrollar.
 
 
 ### Metodología
 
-El proyecto 'Los cuentos de Sairik' es, fundamentalmente, sonoro. No obstante, es necesario una serie de plataformas para combinar y mejorar la experiencia del usuario. Para ello, en primer lugar se dispondrá de una aplicación móvil en la que estará disponible el contenido del plan. Acerca de las redes sociales, no te ha contemplado su realización en esta primera etapa debido a que algunas secciones han quedado pendientes, como se explicará a continuación. 
+El proyecto 'Los cuentos de Sairik' es, fundamentalmente, sonoro. No obstante, es necesario una serie de plataformas para combinar y mejorar la experiencia del usuario. Para ello, en primer lugar se dispondrá de una aplicación móvil en la que estará disponible el contenido del plan. Acerca de las redes sociales, no te ha contemplado su realización en esta primera etapa debido a que algunas secciones han quedado pendientes y se necesitaría contenido extra para alimentarlas, tal y como se explicará a continuación. 
 
 Por último, todo el contenido estará disponible de forma global en la página web: https://loscuentosdesairik.wordpress.com/ Con ello, lo que se pretende es que pueda haber un repositorio general al que acudir en caso de pérdida. La interfaz elegida, sencilla con colores suaves y agradable a la vista, combina los elementos de la tipografía y la imagen inicial del logo. 
 
@@ -58,25 +58,23 @@ Actividades realizadas mediante ProtoTipe: https://cloud.protopie.io/p/7ac8f227b
 
 Actividades realizadas mediante WordPress: https://loscuentosdesairik.wordpress.com/
 
-Actividades realizadas mediante Anchor (previamente en Audacity): https://anchor.fm/carla-rivero0
+Actividades realizadas mediante Anchor (previamente con edición y tratamiento en Audacity): https://anchor.fm/carla-rivero0
 
 Actividades realizadas mediante MyMaps de Google: https://www.google.com/maps/d/u/0/edit?mid=18fi4cNCTAOHzTbQ_GHBb3ZQ_y_xLZP89&usp=sharing
 
-Actidades a realizar en las redes sociales: con una programación de tres publicaciones semanales que se estableciera en: domingo, estreno del cuento; miércoles, entrevista/reportaje/experiencia vívida de un niño o niña del continente africano; viernes, invitación de un cuentista/escritor/experto/activista para hablar de literatura africana o del contexto que atraviesa el país a analizar indicado sobre todo para adultos. Esta dinámica se establecería tanto en Twitter, Instagram, Facebook y Youtube.
+Actidades a realizar en las redes sociales: con una programación de tres publicaciones semanales que se estableciera en: *domingo*, estreno del cuento e interacción con los usuarios; *miércoles*, entrevista/reportaje/experiencia vívida de un niño o niña del continente africano; *viernes*, invitación de un cuentista/escritor/experto/activista para hablar de literatura africana o del contexto que atraviesa el país a analizar, indicado sobre todo para adultos. Esta dinámica se establecería tanto en Twitter, Instagram, Facebook y Youtube, adaptando el contenido a cada uno de los canales.
 
 
 **Investigación de campo**    
 
-'Los cuentos de Sairik' parte de la necesidad de crear un recurso educativo que ayude a la comunidad educativa, y a la sociedad en general, a vincularse en las costumbres, acervos y vivencias de África. Esto parte a raíz de la crisis migratoria que se vive en las Islas Canarias desde enero de 2020, cuando la ruta atlántica se convirtió en la vía de escape de más de 3.000 personas que intentan huir de la pobreza de sus países de origen. Además, el contexto de la covid y la presión legitimida por la normativa de fronteras de la UE, ha supuesto que Canarias se convierta en un Archipiélago 'cárcel', en el cual se ha denunciado en varias ocasiones que la policía prohibiera el libre tránsito de las personas migrantes. 
+'Los cuentos de Sairik' parte de la necesidad de crear un recurso educativo que ayude a la comunidad educativa, y a la sociedad en general, a vincularse en las costumbres, acervos y vivencias de África. Esto parte a raíz de la crisis migratoria que se vive en las Islas Canarias desde enero de 2020, cuando la ruta atlántica se convirtió en la vía de escape de más de 3.000 personas que intentan huir de la pobreza de sus países de origen. Además, el contexto de la covid y la presión legitimida por la normativa de fronteras de la UE ha supuesto que Canarias se convierta en un Archipiélago 'cárcel', en el cual se ha denunciado en varias ocasiones que la policía prohibiera el libre tránsito de las personas migrantes. Los reportajes, entrevistas y crónicas de periodistas como José Naranjo y María Martín en 'El País', o Xavier Aldekoa para 'La Vanguardia', así como Natalia Vargas en el periódico 'Canarias Ahora' y las delegaciones de Efe en las Islas son la principal muestra de lo que ocurre. 
 
-Los reportajes, las entrevistas y crónicas de periodistas como José Naranjo y María Martín en 'El País', o Xavier Aldekoa para 'La Vanguardia', así como Natalia Vargas en el periódico 'Canarias Ahora' y las delegaciones de Efe en las Islas son la principal muestra de lo que ocurre. En el terreno de la ficción, este proyecto se inspira en los largometrajes de 'Kirikú y la bruja' (1998, Michel Ocelot), en el cual se narra la historia de un niño valiente que se enfrenta a la bruja Karaba que mantiene sometida a su aldea en un embrujo. 
-
-También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodista y viajero recientemente fallecido Antonio Lozano, donde se narra la historia del protagonista, un niño de Malí que decide marchar hacia Europa, descubriendo durante el camino las dificultades y obstáculos de la frontera con Melilla y las ingratas consecuencias de su aventura; y el libro 'Cuentos para niños perdidos', de Diriye Osman, o 'Mis cuentos africanos', de Nelson Mandela. Además de la lectura de algunos artículos han dado una muestra, aún expandible, de lo que querríamos expresar en este viaje de Sairik.
+En el terreno de la ficción, este proyecto se inspira en los largometrajes de 'Kirikú y la bruja' (1998, Michel Ocelot), en el cual se narra la historia de un niño valiente que se enfrenta a la bruja Karaba que mantiene sometida a su aldea en un embrujo. También, en los libros de 'Me llamo Zuleimán', del escritor canario, periodista y viajero recientemente fallecido Antonio Lozano, cuya historia refleja a un niño de Malí que decide marchar hacia Europa, descubriendo durante el camino las dificultades y obstáculos de la frontera con Melilla y las ingratas consecuencias de su aventura; y el libro 'Cuentos para niños perdidos', de Diriye Osman, o 'Mis cuentos africanos', de Nelson Mandela, que recogen varias fábulas pertenecientes a las regiones africanas. Asimismo, la lectura de algunos artículos han servido para entender la adecuación del cuento como formato principal y, con ello, mostrar la oportunidad de este trabajo, aún expandible, de lo que querríamos expresar en este viaje de Sairik.
 
 
 **Necesidad/oportunidad** 
 
-La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de nosotras alguna vez ha pensado en África, con sus cincuenta y un países, como un destino en el que prosperar? Miramos hacia Norteamérica (el 'sueño americano' ha hecho bien su trabajo después de décadas suministrando su hegemonía cultural), hacia el norte de Europa y sus bucólicas estampas, o hacia el avance infatigable del ente asiático. Pero, a tan solo unos kilómetros crece la tierra de la que provenimos y de la cual nos seguimos sustentando hoy día explotando sus recursos, y decidimos que ha de quedar ¿postergada al olvido? 
+La necesidad de esta propuesta parte del rechazo hacia lo africano. ¿Quién de nosotras alguna vez ha pensado en África, con sus cincuenta y un países, como un destino en el que prosperar? Miramos hacia Norteamérica (el 'sueño americano' ha hecho bien su trabajo después de décadas suministrando su hegemonía cultural), hacia el norte de Europa y sus bucólicas estampas, o hacia el avance infatigable del ente asiático. Pero, a tan solo unos kilómetros crece la tierra de la que provenimos y de la cual nos seguimos sustentando hoy día explotando sus recursos, y decidimos que ha de quedar..., ¿postergada al olvido? 
 
 **Motivación de la propuesta** 
 
@@ -86,9 +84,9 @@ El proyecto parte de una inspiración personal, atendiendo a mi pasión por escr
 
 Público objetivo:
 
--Menores de 6 a 12 años. 
+-Menores de 6 a 12 años, población local y migrante. 
 
--Menores de 12 a 16 años (adaptado a su currículum educativo).
+-Menores de 12 a 16 años (adaptado a su currículum educativo), población local y migrante.
 
 -Familias circundantes a estos menores. 
 
@@ -100,7 +98,7 @@ Público objetivo:
 
 **Estilo de narración**   
 
-1. Spotify. Al estilo de un libro de cuentos, la voz narra las vivencias de Sairik. Esta plataforma está conectada tanto a ProtoPie como a WordPress y, por ahora, contempla la realización de una primera temporada. 
+1. Spotify (distribución hecha por la web Anchor). Al estilo de un libro de cuentos, la voz narra las vivencias de Sairik. Esta plataforma está conectada tanto a ProtoPie como a WordPress y, por ahora, contempla la realización de una primera temporada. 
 
 2. WordPress. En la página web 'Los cuentos de Sairik' se concentra el contenido del proyecto. La primera página, 'La aldea', se puede consultar tanto los capítulos sonoros originales y autoproducidos como otras leyendas en el siguiente apartado recogidas de distintas fuentes para completar el contenido literario. En la siguiente y aún en costrucción, 'Descubriendo mundo', se descubre el mapa en donde se aportará información de los países de los que se van escogiendo los cuentos tradicionales y, además, en un futuro se plantearía una serie de reportajes y/o crónicas o entrevistas con niños y niñas del contenido para que expresaran su realidad en este medio. Por último, la tercera página, 'Quién eres', es donde la autora se presenta y proporciona información para aquellos interesados que deseen ponerse en contacto con ella.    
 
@@ -111,9 +109,9 @@ Público objetivo:
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-La imagen visual se ha diseñado con la aplicación Canva y la careta del programa es propia, gracias a la colaboración de mi compañero Nicolás Orozco, en su edición en el programa sonoro Audacity. 
+La imagen visual se ha diseñado con la aplicación Canva y la careta del programa es propia, gracias a la colaboración de mi compañero Nicolás Orozco, en su edición en el programa sonoro Audacity mientras que toda la banda sonora está libre de derechos al ser descargada de YouTube Studio. 
 
-* Publicidad: En este caso, entendemos que sería mejor utilizar patrocinadores para la campaña de lanzamiento y, luego, mantenimiento, yendo a las distintas convocatorias lanzadas por ayuntamientos e instituciones públicas. Este espacio patrocinado se colocaría en el banner superior o inferior de la página web principal del proyecto, para que se visualizara, pero tampoco dañara el diseño conjunto.   
+* Publicidad: En este caso, entendemos que sería mejor utilizar patrocinadores para la campaña de lanzamiento y, luego, mantenimiento y evolución, yendo a las distintas convocatorias lanzadas por ayuntamientos e instituciones públicas. Este espacio patrocinado se colocaría en el banner superior o inferior de la página web principal del proyecto para que se visualizara, pero tampoco dañara el diseño conjunto.   
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -148,9 +146,13 @@ Alonso, J., (1998). El pájaro que entro por la boca y salió por el culo de un 
 
 Bolaños, J., (2014). Construyendo la paz desde los suburbios africanos. Documento informativo. Instituto Español de Estudios Estratégicos. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=7600019
 
+Dias, I., Silva, I., (2020). La experiencia del usuario en el proceso de adquirir información para planificar el viaje. El caso del chatbot de Kayak. Estudios y perspectivas en turismo (29), 3. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=7523211
+
 Jojo, V., (2019). El devenir del cuento corto africano digital en inglés. Nerter: Revista dedicada a la literatura, el arte y el conocimiento, 30, pág. 52-58. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=7219262 
 
 Mandela, N., (2019). Mis cuentos africanos. Madrid, España, Siruela. Recuperado de: https://www.siruela.com/catalogo.php?id_libro=3529  
+
+
 
 
 

@@ -131,11 +131,11 @@ Herramientas para evaluar la ideación del proyecto.
 
 * Grado de consecución del proyecto: medio. Ha habido producción y realización de los cuentos y de las principales plataformas, pero aún queda mucho trabajo por hacer. 
 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): ha habido algunos problemas con el programa ProtoPie, si bien cuando arranca (run) en la previsualización se ven todas las opciones, luego no es así en la pantalla principal del proyecto. Y también, aunque estén dadas las instrucciones de reproducción de los capítulos del pódcast, estos no se escuchan. Además, si bien la idea inicial contemplaba la inclusión de relatos personales, no se ha podido recopilar debido a la exigencia del proceso aunque se deja contemplado en la puesta en escena del trabajo. 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): ha habido algunos problemas con el programa ProtoPie, si bien cuando arranca (run) en la previsualización se ven todas las opciones, luego no es así en la pantalla principal del proyecto. Y también, aunque estén dadas las instrucciones de reproducción de los capítulos del pódcast, estos no se escuchan. Además, la idea inicial contemplaba la inclusión de relatos personales, no se ha podido recopilar debido a la exigencia del proceso aunque se deja contemplado en la puesta en escena del trabajo. 
  
 * Propuestas de mejora (por qué consideras que merece la pena continuar): la recopilación de testimonios reales para fomentar la parte socio-educativa del proyecto sería muy interesante expandirla, además de la narración y mejora de los propios cuentos. 
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): hay un interesante recurso en lo transmedia que se denomina "testimonio transmedia", este se desarrolla cuando los propios usuarios utilizan las TIC para difundir el proyecto en sí, por lo que, además de lo comentado anteriormente, esta es una vía de proyección en el futuro.
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): hay un interesante recurso en lo transmedia que se denomina "testimonio transmedia", este se desarrolla cuando los propios usuarios utilizan las TIC para difundir el proyecto en sí y aportan su visión personal y material original, es decir, son ellos los protagonistas. Añadido a lo comentado anteriormente, esta es una vía de proyección en el futuro.
 
 
 Referencias y recursos: 
